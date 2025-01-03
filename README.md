@@ -1,8 +1,11 @@
-<p align = center ><img src="https://media.licdn.com/dms/image/v2/C5616AQEJ7Lh3mQTU1Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1655217882301?e=1741219200&v=beta&t=4wih1bAk8zuKjayPzh1HUHlo0Xfm7jB28vk7ZdGiDGU"> </p>
+<h1 align="center"> Hello there I am Tadeo Parmigiani👋  </h1>
+ </br>
+
+
 
 <div>
 
-
+ <img align="right" width="450" alt="Shimarin" src="https://i.pinimg.com/736x/e5/01/d5/e501d5582c5df96290a874c18060b1ac.jpg"/> 
 
 <h2> / about me /</h2>
   
@@ -32,10 +35,24 @@
   <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+
+ <h2> / Connect with me / </h2>
+<p align="">
+  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="V" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/viralrbhadeshiya" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
+      alt="" height="30" width="auto" /></a>
+</p>
+
   
   </br></br>
   
-<div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  </div>
   </div>
