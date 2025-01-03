@@ -1,4 +1,4 @@
-<p align = center ><img src="https://i.imgur.com/x6qU1kR.png"> </p>
+<p align = center ><img src="https://media.licdn.com/dms/image/v2/C5616AQEJ7Lh3mQTU1Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1655217882301?e=1741219200&v=beta&t=4wih1bAk8zuKjayPzh1HUHlo0Xfm7jB28vk7ZdGiDGU"> </p>
 
 <div>
 
