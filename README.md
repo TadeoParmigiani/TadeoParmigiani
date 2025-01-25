@@ -5,7 +5,7 @@
 
 <div>
 
- <img align="right" width="450" alt="Shimarin" src="Wallpaler arayana.jpeg"/> 
+ <img align="right" width="450" alt="Shimarin" src="https://i.pinimg.com/736x/63/b6/85/63b68551911139751f3a520fb6c6f877.jpg"/> 
 
 <h2> / about me /</h2>
   
